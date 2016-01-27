@@ -1,7 +1,5 @@
 # Week 2 Overview#
 
-![Draft](../images/Draft_Version_picture.png)
-
 ## General Linear Models ##
 
 In this week, you will build on previous material to develop more
@@ -40,4 +38,4 @@ encodes a _Yes/No_ result.
 
 ----------
 [w2q]: https://learn.illinois.edu/mod/quiz/view.php?id=1325080
-[w2v]: https://mediaspace.illinois.edu/
+[w2v]: https://mediaspace.illinois.edu/media/Week+Two/1_5yj9bsvf
