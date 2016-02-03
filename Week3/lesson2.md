@@ -24,7 +24,7 @@ Approximately 2 hours.
 
 _Course Notebook_
 
-- Explore the course [knn][l2nb]
+- Explore the course [SVM][l2nb]
 IPython Notebook on the course JupyterHub server.
 
 _Other Material_
@@ -58,7 +58,7 @@ Pei.
 When you have completed and worked through the above readings, please take the [Week 3 Lesson 2 Assessment][la]
 
 [l2nb]: notebooks/intro2svm.ipynb
-[la]: https://learn.illinois.edu/XXX
+[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1325245
 
 [isvm]: http://www.yaksis.com/posts/why-use-svm.html
 [msvm]: http://www.svm-tutorial.com/2014/11/svm-understanding-math-part-1/

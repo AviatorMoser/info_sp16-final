@@ -24,18 +24,18 @@ Approximately 2 hours.
 
 _Course Notebook_
 
-- Explore the course [knn][l3nb]
+- Explore the course [Naive Bayes][l3nb]
 IPython Notebook on the course JupyterHub server.
 
 _Other Material_
 
-- An introduction to [naive Bayes][inb]
-- An blog introduction to [naive Bayes][bnb]
+- An introduction to [Naive Bayes][inb]
+- An blog introduction to [Naive Bayes][bnb]
 
 ## Optional Readings ##
 
 - Scikit Learn [NB][snb] documentation
-- Discussion on [improving naive Bayes][dinb]
+- Discussion on [improving Naive Bayes][dinb]
 - Discussion of [using NV][unb] for text processing.
 
 - Section 6.3.3 from [Elements of Statistical Learning][esl] by Trevor
@@ -54,7 +54,7 @@ Pei.
 When you have completed and worked through the above readings, please take the [Week 3 Lesson 3 Assessment][la]
 
 [l3nb]: notebooks/intro2nb.ipynb
-[la]: https://learn.illinois.edu/XXXX
+[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1325248
 
 [snb]: http://scikit-learn.org/stable/modules/naive_bayes.html
 [unb]: http://blog.yhat.com/posts/naive-bayes-in-python.html
