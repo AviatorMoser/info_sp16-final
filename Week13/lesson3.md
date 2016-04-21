@@ -1,15 +1,24 @@
 # Week 13 Lesson 3 #
 ## Introduction to Graph Databases ##
 
-In this lesson, you will learn about 
+In this lesson, you will learn about graph databases, which provide a
+mechanism for not only persisting graph data structures but also a
+powerful search mechanisms to quickly find sub-graphs. One of the most
+popular graph database is Neo4J, which we will use to create and persist
+graph data structures. This will involve the Python Neo4J database
+driver, that allows us to directly operate on graphs in the Neo4J
+database via functions calls or to use the Cypher query language to
+create, update, delete, or find subgraphs.
 
 ###Objectives ###
 
 By the end of this lesson, you will be able to:
 
-- Understand the basic concepts of 
-- Be familiar with 
-- Be able to use a 
+- Understand the basic concepts of a graph database
+- Be familiar with the Neo4J database and the Cypher query language
+- Be able to use the py2neo Neo4J database driver to communicate with a
+Neo4J database from a Python program.
+
 
 ### Time Estimate ###
 
@@ -49,7 +58,7 @@ When you have completed and worked through the above readings, please take the [
 
 [l3nb]: notebooks/intro2neo4j.ipynb
 
-[la]: https://learn.illinois.edu/mod/quiz/
+[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1325377
 
 [wn]: https://en.wikipedia.org/wiki/Neo4j
 [wgdb]: https://en.wikipedia.org/wiki/Graph_database
